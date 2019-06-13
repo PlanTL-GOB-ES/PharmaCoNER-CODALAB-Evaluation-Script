@@ -4,7 +4,6 @@
 
 
 ## Introduction
-------------
 
 This script is distributed as apart of the Pharmacological Substances, Compounds 
 and proteins and Named Entity Recognition (PharmaCoNER) task. It is slightly based 
@@ -20,13 +19,11 @@ It produces Precision, Recall and F1 (P/R/F1) measures for both subtracks.
 
 
 ## Prerequisites
--------------
 
 This software requires to have Python 3 installed on your system.
 
 
 ## Directory structure
--------------------
 
 <pre>
 input/
@@ -45,7 +42,6 @@ This directory where the script outputs the results for the run.
 
 
 ## Usage
------
 
 
 the command line is:
@@ -56,14 +52,12 @@ usage: evaluate.py input_folder/ output_folder/
 
 
 ## Contact
-------
 
 Siamak Barzegar (siamak.barzegar@bsc.es)
 
 
 
 ## License
--------
 
 Copyright (c) 2019 Secretaría de Estado para el Avance Digital (SEAD)
 

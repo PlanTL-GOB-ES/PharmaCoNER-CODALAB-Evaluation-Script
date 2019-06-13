@@ -4,7 +4,7 @@
 
 
 ## Introduction
-------------
+
 
 Efficient access to mentions of drugs, medications and chemical entities is a pressing need shared by biomedical researchers, clinicians and pharma industry. The recognition of pharmaceutical drugs and chemical entities is a critical step required for the subsequent detection of relations of chemicals with other biomedically relevant entities.
 
@@ -25,13 +25,11 @@ temu.bsc.es/PharmaCoNER(http://temu.bsc.es/pharmaconer/)
 
 
 ## Prerequisites
--------------
 
 This software requires to have Python 3 installed on your system.
 
 
 ## Directory structure
--------------------
 
 <pre>
 Subtask1/
@@ -43,14 +41,12 @@ Concept indexing.
 
 
 ## Contact
-------
 
 Siamak Barzegar (siamak.barzegar@bsc.es)
 
 
 
 ## License
--------
 
 Copyright (c) 2019 Secretaría de Estado para el Avance Digital (SEAD)
 
