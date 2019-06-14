@@ -25,7 +25,7 @@ class Annotation(object):
 
 class BratAnnotation(Annotation):
 
-    def __init__(self, file_name=None, root="root", gold=None):
+    def __init__(self, file_name=None, root="root", gold=True):
         self.doc_id = ''
         self.sys_id = ''
         self.root = root
