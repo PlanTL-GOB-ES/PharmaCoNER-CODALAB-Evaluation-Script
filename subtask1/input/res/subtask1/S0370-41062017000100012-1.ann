@@ -1,0 +1,24 @@
+T1	NORMALIZABLES 3378 3389  corticoides
+T2	NORMALIZABLES 3282 3292  prednisona
+T3	PROTEINAS 2835 2853  inmunoglobulinas G
+T4	PROTEINAS 2856 2857  M
+T5	PROTEINAS 2627 2649  lactato deshidrogenasa
+T6	PROTEINAS 2545 2548  GPT
+T7	PROTEINAS 2530 2543  transaminasas
+T8	PROTEINAS 2592 2621  gamma glutamil transpeptidasa
+T9	PROTEINAS 2553 2587  transaminasa glutámico oxalacética
+T10	NORMALIZABLES 1919 1930  corticoides
+T11	NORMALIZABLES 1841 1851  prednisona
+T12	NORMALIZABLES 1814 1825  ceftriaxona
+T13	PROTEINAS 1363 1394  transaminasa glutámico-pirúvica
+T14	NORMALIZABLES 1547 1558  bilirrubina
+T15	PROTEINAS 1511 1529  fosfatasa alcalina
+T16	PROTEINAS 1466 1495  gamma glutamil transpeptidasa
+T17	PROTEINAS 1344 1357  transaminasas
+T18	PROTEINAS 1416 1450  transaminasa glutámico oxalacética
+T19	PROTEINAS 1396 1399 GPT
+T20	NORMALIZABLES 670 681  ceftriaxona
+T21	NORMALIZABLES 452 463  ceftriaxona
+T22	PROTEINAS 509 520  palivizumab
+T23	NORMALIZABLES 498 506  metadona
+T24	NORMALIZABLES 83 90  oxígeno

@@ -1,0 +1,14 @@
+T1	PROTEINAS 1039 1064  anticuerpos antinucleares
+T2	PROTEINAS 879 882  PSA
+T3	PROTEINAS 754 763  ferritina
+T4	PROTEINAS 744 747 PCR
+T5	PROTEINAS 723 742  proteína C reactiva
+T6	PROTEINAS 620 638  fosfatasa alcalina
+T7	PROTEINAS 680 683 GGT
+T8	PROTEINAS 696 709  transaminasas
+T9	NORMALIZABLES 577 588  bilirrubina
+T10	PROTEINAS 649 678  gamma-glutamil-transpeptidasa
+T11	PROTEINAS 381 411  antígeno prostático específico
+T12	PROTEINAS 413 416 PSA
+T13	NORMALIZABLES 324 334  goserelina
+T14	NORMALIZABLES 337 349  estramustina
